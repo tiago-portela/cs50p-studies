@@ -9,3 +9,4 @@ Week 0 - f strings, print, def, int, float, str, variables, functions, pseudocod
 
 ## Known bugs.
 1 - Split bug in week0.py, intentional.
+2 - value error in week1.py.
