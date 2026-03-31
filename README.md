@@ -6,6 +6,7 @@ Learning Python from zero, starting at the age of 17. Late, maybe. I am Tiago Po
 
 ## Progress.
 Week 0 - f strings, print, def, int, float, str, variables, functions, pseudocode, etc - Done.
+Week 1 - bool, if, elif, match, or, and, else - Done.
 
 ## Known bugs.
 1 - Split bug in week0.py, intentional.
